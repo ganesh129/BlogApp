@@ -110,6 +110,12 @@ app.listen(3000,function(err,res){
     }
     else
     {
-    console.log("app has started");
+    console.log("app has not started");
     }
 })
+
+
+
+//git add .
+//git commit -m"sdfdsfg"
+//git push -f origin master
